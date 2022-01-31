@@ -1,0 +1,32 @@
+he MD series does not use a standard cable... they use a PS2 connector with a specific wire setting. If you have a spare PS2 mouse with a serial cable and in need of an urgent solution, then make one yourself:
+
+This is are the pin settings (make one only if you're able to)
+
+
+DB9-------------------PS2
+
+1
+
+2---------------------3 (RXD)
+
+3---------------------4 (TXD)
+
+4---------------------2 (RTS)
+
+5---------------------5,6 (GND)
+
+6
+
+7---------------------2 (RTS)
+
+8
+
+9
+
+Share
+Improve this answer
+Follow
+answered Feb 1 '13 at 1:08
+Martino Dino
+1,14511 gold badge99 silver badges17
+https://serverfault.com/questions/474413/powervault-md-circular-console-cable
