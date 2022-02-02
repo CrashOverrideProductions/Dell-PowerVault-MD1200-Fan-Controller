@@ -1,0 +1,8 @@
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\obj\Debug\WindowsService1.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\bin\Debug\Dell PowerVault MD1200 Fan Controller.exe.config
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\bin\Debug\Dell PowerVault MD1200 Fan Controller.exe
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\bin\Debug\Dell PowerVault MD1200 Fan Controller.pdb
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\obj\Debug\Dell PowerVault MD1200 Fan Controller.exe
+C:\Users\justi\Documents\GitHub\Dell-PowerVault-MD1200-Fan-Controller\Dell PowerVault MD1200 Fan Controller\WindowsService1\obj\Debug\Dell PowerVault MD1200 Fan Controller.pdb
