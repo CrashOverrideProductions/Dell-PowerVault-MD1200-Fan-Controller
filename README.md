@@ -1,7 +1,5 @@
 ## Dell-PowerVault-MD1200-Fan-Controller <img alt="" align="right" src="https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91" /> <img alt="" align="right" src="https://img.shields.io/badge/Code-C%20Sharp-success?style=flat&logo=C%20Sharp&logoColor=white&color=239120" />
 
----
-
 ### **Project**: Dell PowerVault MD1200 Fan Speed Controller <img alt="" align="right" src="https://img.shields.io/badge/Status-Prototype%20Phase-informational?style=flat&logoColor=white&color=73398D" />
 
 
